@@ -19,7 +19,7 @@
 
 - Michał Kiełb (przedstawienie postępów)
 
-### 08.04.2017
+### 10.04.2017
 
 - Piotr Lewandowski (przedstawienie prototypu aplikacji)
 
